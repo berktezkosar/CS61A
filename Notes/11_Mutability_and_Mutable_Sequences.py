@@ -2,8 +2,8 @@
 # Where are we in CS61A
 
 Building Blocks' of PRograms
-anaging Complexity
-epresentıng Collectıons of Data
+Managing Complexity
+Representıng Collectıons of Data
 
 What are Containers Good for?
   . Allow us to store related valeus together
@@ -44,6 +44,7 @@ The Many Uses of Trees
 #
 #
 #
+
 #######################################
 ##            MUTABILITY             ##
 #######################################
